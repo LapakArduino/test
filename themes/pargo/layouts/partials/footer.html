@@ -1,7 +1,18 @@
-<footer class="mt-5 mb-5">
-    <div class="text-center text-secondary">
-
-       &copy; {{ .Date.Format "2006" }} <a href="{{ .Site.BaseURL }}" class="text-secondary"> {{ .Site.Title }}</a>
-
+<footer class="border border-bottom-0 border-left-0 border-right-0">
+  <div class="text-center text-secondary">
+    <div class="row">
+      <div class="col">
+        <a>Situs dalam pengembangan</a>
+        &copy; {{ now.Format "2006"}}Created by
+        <a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a> Made with ❤️ using
+        <a
+          href="https://gohugo.io"
+          class="hover:text-teal-400"
+          target="_blank"
+          rel="noopener"
+          >Hugo 0.105.0
+        </a>
+      </div>
     </div>
+  </div>
 </footer>

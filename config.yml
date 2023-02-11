@@ -1,16 +1,16 @@
 baseurl: "https://www.aridianta.com"
-title: Ardianta
+title: Kang Eko
 theme: pargo
 googleAnalytics: UA-54154424-1
-disqusShortname: ardianta
+disqusShortname: ekofidias
 
 permalinks:
   post: "/blog/:slug/"
   page: "/:slug/"
 
 params:
-  author: Dian
-  description: "Hello, saya Dian. Blog ini belum jadi. Sabar ya..."
+  author: Eko Fidia's
+  description: "Hello, saya Eko. Blog ini belum jadi. Sabar ya..."
 
 frontmatter:
   date:
@@ -36,17 +36,17 @@ menu:
       weight: 1
     - identifier: art
       name: Art
-      url: "https://ardiantapargo.deviantart.com/"
+      url: ""
       weight: 2
     - identifier: twitter
       name: Twitter
-      url: "https://twitter.com/ardiantapargo"
+      url: ""
       weight: 3
     - identifier: github
       name: Github
-      url: "https://github.com/ardianta"
+      url: "https://github.com/LapakArduino"
       weight: 4
     - identifier: rss
       name: RSS
-      url: "http://feeds.feedburner.com/ardianta"
+      url: ""
       weight: 5
