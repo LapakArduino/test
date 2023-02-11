@@ -7,9 +7,7 @@
         <div class="card">
           <a href="{{ .RelPermalink }}">
             <img
-              src="https://source.unsplash.com/200x200/?{{ .Slug }}/200"
-              alt="{{ .Title }}"
-            />
+              src="https://source.unsplash.com/200x200/?{{ .Slug }}/200" alt="{{ .Title }}"/>
           </a>
           <div class="card-body">
             <h6 class="card-title">
@@ -22,7 +20,4 @@
     </div>
   </div>
 </article>
-
-<br />
-
 <div class="container">{{ partial "pagination.html" . }}</div>
