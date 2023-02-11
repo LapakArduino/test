@@ -7,11 +7,10 @@ draft: false
 type: page
 
 image: "/img/about-me.jpg"
-description: "Hello, Saya Eko. Salam kenal!"
+description: "Hello, Saya Dian. Salam kenal!"
 ---
 
 Halo, salam kenal.
-+++++++++++++++++++++++++++++++++++++++++ressssstert
 Terimakasih sudah menyempatkan diri untuk membaca about me.
 
 Ini artinya, kamu tertarik untuk mengenal lebih dekat tentang saya.
