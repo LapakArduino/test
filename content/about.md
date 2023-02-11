@@ -11,7 +11,7 @@ description: "Hello, Saya Eko. Salam kenal!"
 ---
 
 Halo, salam kenal.
-
++++++++++++++++++++++++++++++++++++++++++ressssstert
 Terimakasih sudah menyempatkan diri untuk membaca about me.
 
 Ini artinya, kamu tertarik untuk mengenal lebih dekat tentang saya.
