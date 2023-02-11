@@ -1,8 +1,8 @@
 <article class="card-post">
   <div class="container">
     <div class="row mt-4">
-      {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 6 }} {{ range
-      $paginator.Pages }}
+      {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 6 }}
+      {{ range $paginator.Pages }}
       <div class="col-md-4 mb-4 d-flex">
         <div class="card">
           <a href="{{ .RelPermalink }}">
