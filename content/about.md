@@ -7,7 +7,7 @@ draft: false
 type: page
 
 image: "/img/about-me.jpg"
-description: "Hello, Saya Dian. Salam kenal!"
+description: "Hello, Saya Eko. Salam kenal!"
 ---
 
 Halo, salam kenal.
