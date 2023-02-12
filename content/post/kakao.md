@@ -50,8 +50,6 @@ Pemecahan buah dilakukan untuk mengeluarkan biji kakao dari kulit buah dan dan l
 Fermentasi pada biji kakao untuk menghilangkan lendir dan menghasilkan _perkusor_ cita rasa, mengubah warna biji kakao menjadi coklat kehitaman, mengurangi rasa pahit, dan meningkatkan aroma kakao. Proses ini dilakukan selama 6 hari.
 
 ###### **6. Pencucian**
-
-Proses pencucian dilakukan untuk menghilangkan kotoran pada biji kakao.
 Proses perendaman dan pencucian merupakan tahapan proses yang tidak mutlak dilakukan pada pengolahan kakao dan hanya dilakukan di beberapa negara termasuk Indonesia. Perendaman dan pencucian dilakukan dengan tujuan untuk menghentikan proses fermentasi. Perendaman dan pencucian juga akan memperbaiki kenampakan dari biji dimana biji akan nampak lebih menarik dan warna menjadi coklat cerah.
 Perendaman dilakukan lebih kurang 3 jam. Selama proses perendaman, sebagian kulit biji kakao akan larut sehingga kulit menjadi lebih tipis dan rendemen menjadi berkurang. Akibatnya proses pengeringan akan menjadi lebih singkat. Pencucian yang berlebihan akan menyebabkan kehilangan bobot, biji mudah pecah dan akan meningkatkan biaya produksi. Biji kakao dari hasil pemeraman buah selama 7-12 hari tidak perlu dilakukan pencucian karena kadar kulit sudah rendah.
 
