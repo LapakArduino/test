@@ -11,6 +11,7 @@ categories:
 tags:
   - tag1
   - tag2
+rev: "Saya"
 ---
 
 #### Pengolahan Kakao
