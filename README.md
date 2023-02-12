@@ -1,4 +1,4 @@
-## Ardianta Blog
+## Kang Eko blog
 
 [![Hugo version](https://img.shields.io/badge/hugo-v0.86.0-ff69b4.svg)](http://gohugo.io/)
 
@@ -14,6 +14,13 @@ You need to install Hugo `0.86.0` to build and run this blog
 
 To read this blog locally, you need to clone this repository:
 
+.
+Serving pages from memory
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+thx to agan ardinata, ini repo clone dari suhu
+
 ```bash
 git clone --depth 1 https://github.com/ardianta/blog.git ardianta-blog
 ```
@@ -27,7 +34,4 @@ Then run the hugo server:
 Started building sites ...
 .
 .
-Serving pages from memory
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
 ```
