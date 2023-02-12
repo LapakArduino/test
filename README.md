@@ -1,5 +1,11 @@
 ## Kang Eko blog
 
+## deploy ke cloudflare resmi pakai cabang
+whats the impprove
+1. rm -local css
+2. add bootstrap 5 cdn make it faster and smoother quy
+:joy:
+
 [![Hugo version](https://img.shields.io/badge/hugo-v0.86.0-ff69b4.svg)](http://gohugo.io/)
 
 This is my blog's source code. Sorry, I don't accept pull request, because
