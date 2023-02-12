@@ -10,5 +10,4 @@ description: "Blog ini adalah blog pribadi yang isinya berupa catatan bebas. Nam
 ---
 
 Blog ini adalah blog pribadi tempat mencatat segala hal yang ingin saya catat.
-Buat kamu yang tertarik mengikuti update dari blog ini, bisa berlangganan
-[RSS Feed](http://feeds.feedburner.com/ardianta)-nya atau ikuti saya di [Twitter](https://twitter.com/ardiantapargo) dan [Github](https://github.com/ardianta).
+Sorce bisa lihat disini [Github](https://github.com/LapakArduino).

@@ -1,6 +1,6 @@
 ---
 title: "Kakao"
-slug: "choclate"
+slug: "cacao"
 date: 2023-02-10T16:36:36+07:00
 draft: false
 toc: false
@@ -14,16 +14,20 @@ tags:
 ---
 
 #### Pengolahan Kakao
-
-Kakao merupakan
+#
+**Kakao** merupakan
 
 Proses pengolahan primer akan menghasilkan biji kakao kering dengan kadar air sekitar 7 %.
-
+#
 Proses pengolahan kakao dibagi menjadi 2 yaitu:
 
-**1. Pengolahan Primer**
-
-**2. Pengolahan Sekunder**
+| Syntax | Description |
+| ---    | ----------- |
+| Header | Title |
+| Paragraph | Text |
+1. Pengolahan Primer
+x^2
+2. Pengolahan Sekunder
 
 ##### Pengolahan Primer
 
