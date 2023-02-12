@@ -31,12 +31,12 @@ frontmatter:
 menu:
   main:
     - identifier: about
-      name: About
-      url: /about/
+      name: Menu
+      url: /
       weight: 1
     - identifier: art
-      name: Art
-      url: ""
+      name: About
+      url: /about/
       weight: 2
     - identifier: twitter
       name: Twitter
