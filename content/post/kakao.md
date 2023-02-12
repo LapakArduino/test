@@ -1,8 +1,10 @@
 ---
 title: "Kakao"
-slug: "cacao"
+slug: "kakao"
 date: 2023-02-10T16:36:36+07:00
 draft: false
+
+bab: "BAB_2"
 toc: false
 comments: false
 categories:
@@ -15,11 +17,13 @@ rev: "Saya"
 ---
 
 #### Pengolahan Kakao
-#
+![diagram alur pengolahan kakao](https://unsplash.com/photos/EXcebySSEMo
+)
+
 **Kakao** merupakan
 
 Proses pengolahan primer akan menghasilkan biji kakao kering dengan kadar air sekitar 7 %.
-#
+
 Proses pengolahan kakao dibagi menjadi 2 yaitu:
 
 1. Pengolahan Primer
@@ -28,8 +32,6 @@ Proses pengolahan kakao dibagi menjadi 2 yaitu:
 ##### Pengolahan Primer
 
 Pengolahan Primer mengolah buah kakao menjadi biji kakao kering hingga kadar air sekitar 7%.
-
-![diagram alur pengolahan kakao](https://4.bp.blogspot.com/-89RK3vsPeAw/V9FJ-fgPW5I/AAAAAAAADOY/D-R__QHvwzMdNNKsIaNkEU7rzT2hVep7gCK4B/s1600/API%2BSimsimi%2Bdan%2BBot%2BTelegram%2B-%2BPetani%2BKode.png)
 
 ###### **1. Panen**
 

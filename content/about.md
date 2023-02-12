@@ -15,9 +15,8 @@ Terimakasih sudah menyempatkan diri untuk membaca about me.
 
 Ini artinya, kamu tertarik untuk mengenal lebih dekat tentang saya.
 
-Saya suka belajar hal-hal baru dan membagikannya dalam tulisan.
-
+Saya suka belajar hal-hal baru dan membagikannya dalam tulisan (any case :joy: ).
+## :joy:
 Saya mendefinisikan diri saya sebagai seorang **Lifelong Learning**
 atau belajar sepanjang hayat.
 
-![Screenshot Debian 2011](/img/about/debian-2011.jpg)

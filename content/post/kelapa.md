@@ -1,9 +1,12 @@
 ---
 title: "Kelapa"
+slug: "Kelapa"
 date: 2023-02-10T17:00:33+07:00
 draft: false
 toc: false
 comments: false
+
+bab: "BAB_2"
 categories:
   - category1
   - category2

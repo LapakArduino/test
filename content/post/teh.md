@@ -1,9 +1,10 @@
 ---
 title: "Teh"
-slug: "tea"
+slug: "teh"
 date: 2023-02-11T08:13:28+07:00
 draft: false
 
+bab: "BAB_2"
 categories:
   - BAB_2
 
@@ -28,11 +29,11 @@ diagram alur pengolahan teh hijau
 
 ##
 ###### Pengolahan Teh Wangi
-
-Teh wangi merupakan pencampuran teh hijau dengan bahan pewangi seperti bunga melati, bunga melati gambir dan bunga culan. Pencampuran ini bertujuan agar teh memiliki aroma dan cita rasa yang khas.
+<span style="color:red">
+Teh wangi merupakan pencampuran **teh hijau dengan bahan pewangi** seperti bunga melati, bunga melati gambir dan bunga culan. Pencampuran ini bertujuan agar teh memiliki aroma dan cita rasa yang khas.
 
 Prinsip pengolahan teh wangi adalah proses penyerapan _(absorbsi)_ aroma bunga kedalam teh hijau.
-
+</span>
 Proses pengolahan Teh wangi
 ###### 1. Pemetikan
 

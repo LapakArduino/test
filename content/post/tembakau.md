@@ -2,10 +2,12 @@
 title: "Tembakau"
 date: 2023-02-11T06:28:09+07:00
 draft: false
-slug: "agriculture"
+slug: "tembakau"
+
+bab: "BAB_2"
 
 categories:
-  - BAB_2
+
 ---
 
 <!--

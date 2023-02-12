@@ -14,7 +14,7 @@
             <div class="col-lg-8">
                 <div class="card rounded-20 post-outer">
                     <div class="card-body p-md-5">
-                        <div class="post-content">
+                        <div class="post-content mx-auto">
 
                             {{ .Content }}
 
@@ -31,7 +31,7 @@
                                         <time class="text-secondary badge badge-default small" title="{{ .Date }}">{{ .Date.Format "2 Jan" }} <span class="d-none d-md-inline">{{ .Date.Format "2006" }}</span></time>
                                     </td>
                                     <td class="p-1">
-                                        <a class="text-success" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                        <a class="text-success" href="{{ .RelPermalink }}">{{ .Title }}| {{ .Slug }} </a>
                                     </td>
                                 </tr>
                                 {{ end }}

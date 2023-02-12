@@ -11,3 +11,6 @@ description: "Blog ini adalah blog pribadi yang isinya berupa catatan bebas. Nam
 
 Blog ini adalah blog pribadi tempat mencatat segala hal yang ingin saya catat.
 Source bisa lihat disini [Github](https://github.com/LapakArduino).
+
+###### Penopang pembelajaran Produksi Perkebunan dan Herbal
+dibawah ini adalah kumpulan materi yang bisa dipelajari

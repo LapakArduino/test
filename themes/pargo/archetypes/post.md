@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 slug: {{ .BaseFileName }}
 date: {{ .Date }}
-cat: ""
+bab: ""
 draft: true
 
 type: post
