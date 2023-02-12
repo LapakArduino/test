@@ -6,7 +6,7 @@ draft: false
 toc: false
 comments: false
 categories:
-  - Prokebal
+  - BAB_2
   - category2
 tags:
   - tag1
@@ -21,12 +21,7 @@ Proses pengolahan primer akan menghasilkan biji kakao kering dengan kadar air se
 #
 Proses pengolahan kakao dibagi menjadi 2 yaitu:
 
-| Syntax | Description |
-| ---    | ----------- |
-| Header | Title |
-| Paragraph | Text |
 1. Pengolahan Primer
-x^2
 2. Pengolahan Sekunder
 
 ##### Pengolahan Primer
@@ -57,6 +52,9 @@ Fermentasi pada biji kakao untuk menghilangkan lendir dan menghasilkan _perkusor
 ###### **6. Pencucian**
 
 Proses pencucian dilakukan untuk menghilangkan kotoran pada biji kakao.
+Proses perendaman dan pencucian merupakan tahapan proses yang tidak mutlak dilakukan pada pengolahan kakao dan hanya dilakukan di beberapa negara termasuk Indonesia. Perendaman dan pencucian dilakukan dengan tujuan untuk menghentikan proses fermentasi. Perendaman dan pencucian juga akan memperbaiki kenampakan dari biji dimana biji akan nampak lebih menarik dan warna menjadi coklat cerah.
+Perendaman dilakukan lebih kurang 3 jam. Selama proses perendaman, sebagian kulit biji kakao akan larut sehingga kulit menjadi lebih tipis dan rendemen menjadi berkurang. Akibatnya proses pengeringan akan menjadi lebih singkat. Pencucian yang berlebihan akan menyebabkan kehilangan bobot, biji mudah pecah dan akan meningkatkan biaya produksi. Biji kakao dari hasil pemeraman buah selama 7-12 hari tidak perlu dilakukan pencucian karena kadar kulit sudah rendah.
+
 
 ###### **7. Pengeringan**
 

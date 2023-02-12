@@ -10,4 +10,4 @@ description: "Blog ini adalah blog pribadi yang isinya berupa catatan bebas. Nam
 ---
 
 Blog ini adalah blog pribadi tempat mencatat segala hal yang ingin saya catat.
-Sorce bisa lihat disini [Github](https://github.com/LapakArduino).
+Source bisa lihat disini [Github](https://github.com/LapakArduino).

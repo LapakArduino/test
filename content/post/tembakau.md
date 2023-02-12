@@ -3,6 +3,9 @@ title: "Tembakau"
 date: 2023-02-11T06:28:09+07:00
 draft: false
 slug: "agriculture"
+
+categories:
+  - BAB_2
 ---
 
 <!--
