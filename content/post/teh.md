@@ -15,7 +15,7 @@ Lanjutan materi teh
 
 ##### Pengolahan Teh Hijau
 Teh hijau merupakan  pucuk muda yabng diolah tanpa proses fermentasi.
-#
+
 diagram alur pengolahan teh hijau
 
 ###### 1. Pemetikan
@@ -29,11 +29,15 @@ diagram alur pengolahan teh hijau
 ###### Pengolahan Teh Wangi
 
 Teh wangi merupakan pencampuran teh hijau dengan bahan pewangi seperti bunga melati, bunga melati gambir da bunga culan. Pencampuran ini bertujuan agar teh memiliki cita rasa yang khas.
-#
-```
+
 Prinsip pengolahan teh wangi adalah proses penyerapan _(absorbsi)_ aroma bunga kedalam teh hijau.
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 Proses pengolahan Teh wangi
-```
 ###### 1. Pemetikan
 
 ###### 2. Penggosongan
