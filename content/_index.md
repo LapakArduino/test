@@ -28,4 +28,5 @@ Skema Materi
 <li>Kelapa</li>
 <li>Kelapa Sawit</li>
 </ul>
+<p class="text-primary">Pilih tautan dibawah untuk memilih materi<p>
 </div>
