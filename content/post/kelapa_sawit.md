@@ -23,4 +23,3 @@ Beberapa olahan berbahan dasar kelapa
 2. Minyak Kelapa
 3. Air Kelapa
 4. Tempurung Kelapa
-5.
