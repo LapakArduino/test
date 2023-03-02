@@ -5,34 +5,28 @@
     {{ partial "head.html" . }}
 </head>
 
-<body class="bg-light">
+<body class="">
 
     {{ partial "header.html" . }}
 
-    <div class="container mt-5 mb-5">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-md-8">
-                <div class="card rounded-0 post-outer">
-                    <div class="card-body  p-md-5">
-                        <div class="post-content">
-                            <div class="post-header mb-3">
-                                <h2 class="post-title">{{ .Title }}</h2>
-                                <hr>
-                            </div>
-                            <div class="post-body">
-                                {{ .Content }}
-                            </div>
-                            <div class="post-footer mt-5 py-4">
-                                
-                                {{ if eq .Type "post" }} {{ partial "disqus.html" . }} {{ end }}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                 {{ partial "footer.html" . }}
+    {{ define "main" }}
+    <div class="max-w-2xl mx-auto mt-10">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="p-4">
+                <h1 class="text-xl font-bold mb-2">{{ .Title }}</h1>
+                <p class="text-gray-700 text-base">{{ .Date.Format "January 2, 2006" }}</p>
+            </div>
+            <div class="p-4">
+                {{ .Content }}
             </div>
         </div>
+    </div>
+    {{ end }}
+
+
+    {{ partial "footer.html" . }}
+    </div>
+    </div>
     </div>
 
     {{ partial "js-init.html" . }}

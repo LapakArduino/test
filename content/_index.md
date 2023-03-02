@@ -30,3 +30,5 @@ Skema Materi
 </ul>
 <p class="text-primary">Pilih tautan dibawah untuk memilih materi<p>
 </div>
+
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">

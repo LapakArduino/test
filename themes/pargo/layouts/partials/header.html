@@ -1,25 +1,19 @@
-<header >
-    <div class="container">
-        <div class="row">
-            <div class="col text-center mt-5">
-<h1>
-                    <a href="">
-                        <h1>Kang Eko</h1>
-                    </a>
-</h1>
-                <ul>Learning Coding Embedding </li>
-                <ul class="nav justify-content-center">
-                    {{ $currentPage := . }}
-                    {{ range .Site.Menus.main }}
-                    <li class='nav-item {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}'>
-                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                    {{ end }}
-                </ul>
+<nav class="bg-teal-600 text-white sticky top-0 z-40 shadow-md">
+    <div class="container mx-auto px-4 lg:max-w-7xl flex justify-between">
+        <div class="flex flex-row gap-1 items-center py-3 md:py-2">
+            <a href="/ "
+                class="hidden md:inline-flex items-center gap-1 px-3 py-2 rounded-lg font-medium text-dark hover:bg-teal-700 focus:ring-2 focus:ring-teal-500">
 
-<!-- <h2>Dark/Light Mode!</h2>
-<button onclick="myFunction()">Change</button> -->
-            </div>
+                Home
+            </a>
+            <a href="/about "
+                class="hidden md:inline-flex items-center gap-1 px-3 py-2 rounded-lg font-medium text-dark hover:bg-teal-700 focus:ring-2 focus:ring-teal-500">
+                Posts
+            </a>
+            <a href="/about "
+                class="hidden md:inline-flex items-center gap-1 px-3 py-2 rounded-lg font-medium text-dark hover:bg-teal-700 focus:ring-2 focus:ring-teal-500">
+                Tentang
+            </a>
         </div>
     </div>
-</header>
+</nav>

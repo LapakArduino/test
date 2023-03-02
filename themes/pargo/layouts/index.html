@@ -5,47 +5,18 @@
   {{ partial "head.html" . }}
 </head>
 
-<body class="bg-light">
+<body>
   {{ partial "header.html" . }}
 
-  <div class="container mt-5 mb-5">
-    <div class="row align-items-center justify-content-center">
-      <div class="col-lg-8">
-        <div class="card rounded-20 post-outer">
-          <div class="card-body p-md-5">
-            <div class="post-content mx-auto">
-
-              {{ .Content }} {{ range (.Site.RegularPages.GroupByDate "2006")}}
-              <table>
-                <tr>
-                  <td colspan="3">
-                    <h4>{{ .Key }}</h4>
-                  </td>
-                </tr>
-                {{ range where .Pages "Section" "post"}}
-                <tr>
-                  <td class="p-1">
-                    <time class="text-secondary badge badge-default small" title="{{ .Date }}">{{ .Date.Format "2 Jan"}}
-                      <span class="d-none d-md-inline">{{ .Date.Format "2006" }}</span></time>
-                  </td>
-                  <td class="p-1">
-                    <a class="text-primary" href="{{ .RelPermalink }}">{{ .Title }}
-                    </a>
-                  </td>
-                </tr>
-                {{ end }}
-              </table>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-
-        {{ partial "footer.html" . }}
+  <main className="flex items-center justify-center min-h-screen bg-gray-500">
+    <div class="w-5/12">
+      <div class="px-8 py-5 leading-relaxed text-xl text-gray-800">
+        Ulangan tong, belajar sono ,malah buka web 🤣
       </div>
     </div>
-    <!-- /row -->
-  </div>
-  <!-- /container -->
+
+  </main>
+  {{ partial "footer.html" . }}
 </body>
 
 </html>

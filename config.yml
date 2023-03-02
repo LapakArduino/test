@@ -11,13 +11,13 @@ permalinks:
 params:
   author: Eko Fidia's
   description: "Hello, saya Eko. Blog ini belum jadi. Sabar ya..."
-
+  # css: "css/main.css"
 frontmatter:
   date:
     - date
     - publishDate
-    - lastmod
   lastmod:
+    - lastmod
     - ":git"
     - lastmod
     - date
@@ -57,3 +57,9 @@ markup:
       hardWraps: false
       unsafe: true
       xhtml: false
+imaging:
+  anchor: Smart
+  bgColor: "#ffffff"
+  hint: photo
+  quality: 75
+  resampleFilter: Box
