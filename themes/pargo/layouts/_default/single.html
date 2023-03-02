@@ -10,17 +10,6 @@
     {{ partial "header.html" . }}
 
     {{ define "main" }}
-    <div class="max-w-2xl mx-auto mt-10">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-            <div class="p-4">
-                <h1 class="text-xl font-bold mb-2">{{ .Title }}</h1>
-                <p class="text-gray-700 text-base">{{ .Date.Format "January 2, 2006" }}</p>
-            </div>
-            <div class="p-4">
-                {{ .Content }}
-            </div>
-        </div>
-    </div>
     {{ end }}
 
 
